@@ -1,27 +1,38 @@
-NANMI (UI/UX Focus):
-- Multi-workspace dashboard with customizable views for different teams
-- Drag-and-drop interface for resource allocation
-- Visual heat maps showing space utilization
-- Real-time resource availability indicators
-- Mobile-first interface for quick bookings
+**NANMI:**
 
-MANEESH (Requirements Focus):
-- Integration with calendar systems for synchronized scheduling
-- Automated resource allocation based on team size
-- Privacy settings for sensitive resource information
-- Resource usage analytics and reporting tools
-- Customizable notification preferences
+- Simple calendar view for room bookings
+- Quick equipment checkout forms
+- Email notifications for reservations
+- Meeting room availability status board
+- Basic equipment tracking list
+- Easy reporting of maintenance issues
+- BOOKING ASSISTANCE - Help tooltips for each feature
 
-YIPENG (Business Analysis):
-- Team performance metrics based on resource utilization
-- Cost optimization suggestions based on usage patterns
-- Resource sharing recommendations across teams
-- Sustainability score tracking and gamification
-- Historical data analysis for better resource planning
+**MANEESH:**
 
-TASNIM (Technical Architecture):
-- API integrations for development tools
-- Automated environment setup for programming spaces
-- Resource dependency tracking system
-- Smart matching algorithm for space allocation
-- Real-time monitoring of resource usage
+- Team space booking for group work
+- Equipment sharing between teams
+- Monthly usage reports for managers
+- Basic cost tracking for resources
+- Simple maintenance schedule
+- Room capacity indicators
+
+**YIPENG:**
+
+- Desktop booking for hybrid teams
+- Software license tracking dashboard
+- Meeting room search filters
+- Project team space allocation
+- Equipment request forms
+- Basic resource usage graphs
+- High contrast mode for all dashboards
+- Step-by-step booking wizard
+
+**TASNIM:**
+
+- Development space availability checker
+- Shared equipment calendar
+- Quick team space finder
+- Simple energy usage tracking
+- Room booking cancellation system
+- Basic inventory management
