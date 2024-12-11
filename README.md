@@ -9,9 +9,7 @@ ResourceHub is a resource management system designed specifically for tech start
 ## Repository Structure
 - `01-team/` - Team formation and role assignments
 - `02-research/` - Initial research, brainstorming, and market analysis
-- `03-requirements/` - Project description and technical requirements
-- `04-analysis/` - Personas, use cases, and activity diagrams
-- `05-design/` - Entity relationships, content plans, prototypes, and class diagrams
+- `03-design/` - Entity relationships, content plans, prototypes, and class diagrams
 
 ## Collaboration Guidelines
 1. Always pull before starting work
